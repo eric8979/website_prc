@@ -1,0 +1,70 @@
+aside {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 18%;
+    height: 100%;
+    border-left-style: solid;
+    border-left-width: 2px;
+    border-left-color: gray;
+    padding: 5px;
+
+    text-align: center;
+}
+
+.homeIcon {
+    position: static;
+    width: 40%;
+    height: auto;
+}
+
+.inspiringImage {
+    position: relative;
+    top: 200px;
+    width: 100%;
+    height: auto;
+    border-bottom-style: hidden;
+    border-bottom-width: 20px;
+}
+.quote {
+    position: relative;
+    top: 210px;
+}
+
+.emailbox {
+    position: relative;
+    top: 245px;
+}
+
+.sns {
+    position: relative;
+    top: 280px;
+}
+img.icon {
+    position: relative;
+    top: 10px;
+    width: 40px;
+    height: 40px;
+    padding-right: 5px;
+}
+.license {
+    position: relative;
+    top: 320px;
+}
+
+/*-----------------------------------*/
+
+.articles {
+    position: relative;
+    right: 5px;
+    left: 5px;
+}
+
+.search {
+    display: inline;
+    position: fixed;
+    right: 20%;
+    top: 10px;
+}
+
+
